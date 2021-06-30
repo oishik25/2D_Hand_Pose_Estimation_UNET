@@ -13,6 +13,6 @@ Extract the dataset in the folder notebook/data/FreiHAND_pub_v2/
 
 I have performed PCA on images and then true keypoints and considered first two principal components. Then the plot was done plotting PC-1 vs PC-2.
 PCA Plot of images:
-[PCA Plot for Images](images/pca_images.png)
+![PCA Plot for Images](images/pca_images.png)
 PCA Plot of True keypoints:
-[PCA Plot of True Keypoints](images/pca_keypoint_true)
+![PCA Plot of True Keypoints](images/pca_keypoint_true)
