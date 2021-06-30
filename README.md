@@ -25,14 +25,14 @@ rest pof the configuration can be found in config.py file in utils folder.
 ## Model
 
 I have used U-Net model with few changes
-![model](model.png)
+![model](images/mod.JPG)
 
 ## Loss
 
 I have used IoU Loss.
-![loss](loss.jpg)
+![loss](images/loss.JPG)
 
 ## Results:
 
 Success Rate for different threshold values of error:
-![result](threshold_eval.png)
+![result](images/threshold_eval.png)
