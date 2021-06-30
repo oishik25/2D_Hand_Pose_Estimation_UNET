@@ -1,1 +1,1 @@
-# 2D_Hand_Pose_Estimation_UNET
+# 2D Hand Pose Estimation from RGB images using U-NET like model architecture.
